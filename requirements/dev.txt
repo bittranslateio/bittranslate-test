@@ -1,0 +1,12 @@
+torch>=2.0.0
+bert-score
+transformers
+sentencepiece
+sentence-transformers
+numpy
+datasets
+langdetect
+
+pytest
+ruff
+black
